@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1562166057211.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "14016F1E",
+    "lastKnownWriteTime" : 1562174579,
+    "last_content_update" : 1562174579479,
+    "path" : "~/outlookHelpeR/R/outlookHelpeR.R",
+    "project_path" : "R/outlookHelpeR.R",
+    "properties" : {
+        "cursorPosition" : "9,22",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

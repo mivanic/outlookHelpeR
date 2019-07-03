@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1562174127491.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A52524BB",
+    "lastKnownWriteTime" : 1562174958,
+    "last_content_update" : 1562174958587,
+    "path" : "~/outlookHelpeR/tests/testthat/test-chained-transformation.R",
+    "project_path" : "tests/testthat/test-chained-transformation.R",
+    "properties" : {
+        "cursorPosition" : "70,63",
+        "scrollLine" : "46"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

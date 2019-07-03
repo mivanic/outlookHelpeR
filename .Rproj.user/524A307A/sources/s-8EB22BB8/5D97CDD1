@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1562167477667.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5D97CDD1",
+    "lastKnownWriteTime" : 1562169265,
+    "last_content_update" : 1562169265211,
+    "path" : "~/outlookHelpeR/tests/testthat/test-lagged-value.R",
+    "project_path" : "tests/testthat/test-lagged-value.R",
+    "properties" : {
+        "cursorPosition" : "66,0",
+        "scrollLine" : "36"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
